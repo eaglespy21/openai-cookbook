@@ -133,5 +133,7 @@ dmypy.json
 /examples/data/transactions*
 *.DS_Store
 
+*.secret
 .venv310
 apps/web-crawl-q-and-a/text
+apps/web-crawl-q-and-a/processed
