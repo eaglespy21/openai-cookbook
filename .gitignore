@@ -134,3 +134,4 @@ dmypy.json
 *.DS_Store
 
 .venv310
+apps/web-crawl-q-and-a/text
